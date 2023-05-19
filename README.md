@@ -7,7 +7,7 @@
 ## - 👯 I’m looking to collaborate on Webapps
 ## - ⚡ Fun fact: I am all about humor
 [
-# Languages and Tool]s
+# Languages and Tools
 ### HTML5
 ### CSS3
 ### JavaScript
