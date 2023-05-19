@@ -1,10 +1,15 @@
 ## Hi there, This is Tanishq Gupta 👋
 # About Me
-I am a passionate Full Stack Developer with expertise in HTML5, CSS3, JavaScript, Python, C++, SQL, Git, GitHub, and AI prompting.
-I recently graduated in 2023 and have gained valuable experience through 2 internships that contributed to anoverall experience of 5 months.
-I enjoy creating web applications as well as developing machine learning models.
+### I am a passionate Full Stack Developer with expertise in HTML5, CSS3, JavaScript, Python, C++, SQL, Git, GitHub, and AI prompting.
+### I recently graduated in 2023 and have gained valuable experience through 2 internships that contributed to anoverall experience of 5 months.
+### I enjoy creating web applications as well as developing machine learning models.
 
-# Languages and Tools
+## - 🔭 I’m currently working on Webapps and Machine Learning Models
+## - 🌱 I’m currently learning more about React and AWS
+## - 👯 I’m looking to collaborate on Webapps
+## - ⚡ Fun fact: I am all about humor
+[
+# Languages and Tool]s
 ### HTML5
 ### CSS3
 ### JavaScript
@@ -14,11 +19,6 @@ I enjoy creating web applications as well as developing machine learning models.
 ### Git
 ### GitHub
 ### AI prompting
-
-- 🔭 I’m currently working on Webapps and Machine Learning Models
-- 🌱 I’m currently learning more about React and AWS
-- 👯 I’m looking to collaborate on Webapps
-- ⚡ Fun fact: I am all about humor
 
 # - 📫 How to reach me:
 ### Email: [tanishq4376@gmail.com]
