@@ -6,7 +6,7 @@
 ## - 🌱 I’m currently learning more about React and AWS
 ## - 👯 I’m looking to collaborate on Webapps
 ## - ⚡ Fun fact: I am all about humor
-[
+
 # Languages and Tools
 ### HTML5
 ### CSS3
